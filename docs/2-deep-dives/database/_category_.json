@@ -1,8 +1,0 @@
-{
-  "label": "Database - Roland",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "An OLTP champion database developed with a self-healing OS? Say less."
-  }
-}
