@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktandem=self.webpackChunktandem||[]).push([[4833],{4704:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/nsu40/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
